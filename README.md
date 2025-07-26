@@ -14,7 +14,7 @@ This is a clean, fully responsive multi-page website built using **HTML5**, **CS
 - 🧠 JavaScript-powered form validation
 - ⚙️ Smooth transitions and hover effects
 
----
+----------
 
 ## 🧱 Technologies Used
 
